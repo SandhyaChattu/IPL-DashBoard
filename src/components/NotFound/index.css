@@ -1,0 +1,10 @@
+/* Write your CSS here */
+div {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-family: Bree Serief;
+}
